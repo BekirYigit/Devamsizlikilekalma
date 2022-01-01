@@ -1,0 +1,11 @@
+D:\Visual\Devamsızlık ile kalma\Devamsızlık ile kalma\bin\Debug\Devamsızlık ile kalma.exe.config
+D:\Visual\Devamsızlık ile kalma\Devamsızlık ile kalma\bin\Debug\Devamsızlık ile kalma.exe
+D:\Visual\Devamsızlık ile kalma\Devamsızlık ile kalma\bin\Debug\Devamsızlık ile kalma.pdb
+D:\Visual\Devamsızlık ile kalma\Devamsızlık ile kalma\obj\Debug\Devamsızlık ile kalma.csproj.AssemblyReference.cache
+D:\Visual\Devamsızlık ile kalma\Devamsızlık ile kalma\obj\Debug\Devamsızlık ile kalma.csproj.SuggestedBindingRedirects.cache
+D:\Visual\Devamsızlık ile kalma\Devamsızlık ile kalma\obj\Debug\Devamsızlık_ile_kalma.Form1.resources
+D:\Visual\Devamsızlık ile kalma\Devamsızlık ile kalma\obj\Debug\Devamsızlık_ile_kalma.Properties.Resources.resources
+D:\Visual\Devamsızlık ile kalma\Devamsızlık ile kalma\obj\Debug\Devamsızlık ile kalma.csproj.GenerateResource.cache
+D:\Visual\Devamsızlık ile kalma\Devamsızlık ile kalma\obj\Debug\Devamsızlık ile kalma.csproj.CoreCompileInputs.cache
+D:\Visual\Devamsızlık ile kalma\Devamsızlık ile kalma\obj\Debug\Devamsızlık ile kalma.exe
+D:\Visual\Devamsızlık ile kalma\Devamsızlık ile kalma\obj\Debug\Devamsızlık ile kalma.pdb
